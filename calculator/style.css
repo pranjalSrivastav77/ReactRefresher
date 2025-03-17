@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 70vh;
+    width: 400px;
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 35%;
+}
